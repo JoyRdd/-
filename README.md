@@ -30,12 +30,6 @@
 6. WebSocket
 7. vue-cli4
 
-## 项目效果图
-
-![image-20221029085636041](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20221029085636041.png)
-
-![image-20221029085702759](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20221029085702759.png)
-
 ## 安装教程：
 
 1. JDK 1.8
