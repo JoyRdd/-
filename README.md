@@ -38,6 +38,12 @@
 
 ## 安装教程：
 
+1.JDK 1.8
+2.IEDA 2021.3.3
+3.Microsoft SQLServer 2005
+4.Resin 3.0.24
+5.Tomcat 8.5
+6.Redhat Enterprise Linux Server 5.0
 
 
 
